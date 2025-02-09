@@ -15,7 +15,8 @@ I come from Poland and I'm in high school.
 - pretty basic C++
 - some HTML
 - Python (but I forgor💀)
-I'm planning to learn Java, maybe Kotlin and Lua also.
+
+I'm planning to learn Java, GDScript, maybe Kotlin and Lua also.
 
 ## Hardware
 It's bad.
