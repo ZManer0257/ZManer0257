@@ -1,7 +1,7 @@
 # Hello and welcome to my page!
 
 I honestly don't know what are you looking for there, anyway you're welcome.
-I come from Poland and I'm in high school.
+I come from Poland and I'm in high school on IT profile (no way).
 
 ## Languages:
 ### for humans:
@@ -28,7 +28,7 @@ It's bad.
 - tennis
 - chess
 - teleporting bread
-- other...
+- many other...
 
 ## Random fact:
 This is my first such long bio.
